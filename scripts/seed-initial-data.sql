@@ -4,10 +4,10 @@ GO
 
 -- Insert sample users
 INSERT INTO Users (Name, Email, Role) VALUES
-('Pranav P', 'pranav2004@example.com', 'Buyer'),
-('Jane Smith', 'jane.smith@example.com', 'Buyer'),
-('Saravanan', 'saravanan@example.com', 'Admin'),
-('Sarah Wilson', 'sarah.wilson@example.com', 'Buyer');
+('Pranav P', 'john.doe@example.com', 'Buyer'),
+('Sriram', 'jane.smith@example.com', 'Buyer'),
+('Vijay', 'mike.johnson@example.com', 'Admin'),
+('Prakash', 'sarah.wilson@example.com', 'Buyer');
 
 -- Insert sample products
 INSERT INTO Products (Name, Description, UOM) VALUES
